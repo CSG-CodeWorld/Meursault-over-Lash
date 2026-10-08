@@ -4,6 +4,11 @@ Meursault from **Limbus Company** replacing **Lash** in Deadlock: model, ability
 
 A complete character overhaul turning Lash into Meursault from Limbus Company. 
 
+<p align="center">
+  <a href="../../releases/latest/download/Meursault_over_Lash_v1.0.zip"><img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20THE%20MOD-v1.0%20(71%20MB)-2ea44f?style=for-the-badge" height="56" alt="Download the mod"></a>
+  <br><sub>Click to download the zip directly. Other files (model / effects / audio only): <a href="../../releases/latest">Releases page</a></sub>
+</p>
+
 <p align="center"><img src="images/hero_select.jpg" width="100%" alt="Meursault on the hero select screen"></p>
 
 <p align="center">
