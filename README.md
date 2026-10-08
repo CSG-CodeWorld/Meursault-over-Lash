@@ -4,6 +4,15 @@ Meursault from **Limbus Company** replacing **Lash** in Deadlock: model, ability
 
 A complete character overhaul turning Lash into Meursault from Limbus Company. 
 
+<p align="center"><img src="images/hero_select.jpg" width="100%" alt="Meursault on the hero select screen"></p>
+
+<p align="center">
+  <a href="images/ult_overhead.jpg"><img src="images/ult_overhead.jpg" height="140" alt="Chains of Others from the caster's view"></a>
+  <a href="images/ult_eyes.jpg"><img src="images/ult_eyes.jpg" height="140" alt="The eyes and chains behind him"></a>
+  <a href="images/portraits.png"><img src="images/portraits.png" height="140" alt="Custom portraits"></a>
+  <br><sub>Click any image for full size.</sub>
+</p>
+
 Features
 - Meursault model replacement, fully scaled and adjusted for Deadlock.
 - Custom Hero Selection screen, Gloat portrait, and Injured portrait, Map and Character icons
