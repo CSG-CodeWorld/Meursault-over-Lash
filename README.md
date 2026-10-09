@@ -39,7 +39,7 @@ Features
 ## Credits
 
 - **Project Moon** ([projectmoon.studio](https://projectmoon.studio/)), *Limbus Company*: Meursault (character and
-  design), voice lines and sound effects, and the reference art used as AI input.
+  design), voice lines and sound effects, and art.
 
 Fan work, free, not for sale. Meursault, Limbus Company and its voices and sounds belong to Project Moon. Not affiliated
 with Project Moon or Valve. Licensed **CC BY-NC-ND 4.0**.
