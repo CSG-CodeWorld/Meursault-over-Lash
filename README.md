@@ -40,13 +40,6 @@ Features
 
 - **Project Moon** ([projectmoon.studio](https://projectmoon.studio/)), *Limbus Company*: Meursault (character and
   design), voice lines and sound effects, and the reference art used as AI input.
-- **AI tools:** [OpenAI GPT image generation](https://openai.com/chatgpt) (model reference, icons),
-  [Tencent Hunyuan 3D](https://3d.hunyuan.tencent.com/) (model generation), Tencent HY 3D Studio (retopology),
-  [OpenAI Codex](https://openai.com/codex), [Anthropic Claude Code](https://claude.com/claude-code) (tooling, effects,
-  audio pipeline).
-- **Tools:** [Reallusion AccuRIG](https://actorcore.reallusion.com/auto-rig) (rigging), Blender, Valve's Counter-Strike 2
-  Workshop Tools, [ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat),
-  [vgmstream](https://github.com/vgmstream/vgmstream).
 
 Fan work, free, not for sale. Meursault, Limbus Company and its voices and sounds belong to Project Moon. Not affiliated
 with Project Moon or Valve. Licensed **CC BY-NC-ND 4.0**.
