@@ -5,7 +5,7 @@ Meursault from **Limbus Company** replacing **Lash** in Deadlock: model, ability
 A complete character overhaul turning Lash into Meursault from Limbus Company. 
 
 <p align="center">
-  <a href="../../releases/latest/download/Meursault_over_Lash_v1.3.zip"><img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20THE%20MOD-v1.3%20(71%20MB)-2ea44f?style=for-the-badge" height="56" alt="Download the mod"></a>
+  <a href="../../releases/latest/download/Meursault_over_Lash_v1.4.zip"><img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20THE%20MOD-v1.4%20(71%20MB)-2ea44f?style=for-the-badge" height="56" alt="Download the mod"></a>
   <br><sub>Click to download the zip directly. Other files (model / effects / audio only): <a href="../../releases/latest">Releases page</a></sub>
 </p>
 
@@ -29,7 +29,7 @@ Features
 
 ## Install
 
-1. Download **`Meursault_over_Lash_v1.3.zip`** from [Releases](../../releases/latest).
+1. Download **`Meursault_over_Lash_v1.4.zip`** from [Releases](../../releases/latest).
 2. **Deadlock Mod Manager:** My Mods → **Add Local Mod** → pick the zip. (It won't appear in the manager's store; the
    store only lists GameBanana mods.)
 3. **Manual:** unzip and put the `.vpk` in `Deadlock/game/citadel/addons/` (with addons set up the usual way). If
